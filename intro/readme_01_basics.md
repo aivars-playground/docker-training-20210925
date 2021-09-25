@@ -3,6 +3,9 @@ Docker
 An image is a read-only template with instructions for creating a Docker container.  
 A container is a runnable instance of an image.  
 
+Dockerfile - instruction how to build a container
+Docker Compose - build/run multiple images, define a network  
+Docker Swarm - define a service; swarm is a cluster of docker manager and worker nodes, can be run locally (one manager ... per server)
 
 BASICS
 =
